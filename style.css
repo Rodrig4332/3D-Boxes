@@ -18,7 +18,7 @@ body {
 }
 
 .magic {
-    background-color: #f9ca24;
+    background-color: #f1bf09;
     color: #000;
     font-family: 'Nonito-Sans', sans-serif;
     border: 0;
@@ -29,7 +29,7 @@ body {
     position: fixed;
     top: 20px;
     letter-spacing: 1px;
-    box-shadow: 0 3px rgba(249,202,36, 0.5);
+    box-shadow: 0 3px rgba(250, 209, 63, 0.5);
     z-index: 100;
 }
 
